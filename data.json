@@ -1,0 +1,66 @@
+{
+  "config": {
+    "site_title": "Koushik Hiremath - Azure Developer Associate",
+    "theme_color": "#2b6cee",
+    "terminal_user": "koushik",
+    "terminal_host": "dotnet",
+    "ascii_art": " ██╗  ██╗ ██████╗ ██╗   ██╗ ██████╗██╗  ██╗██╗██╗  ██╗\n ██║ ██╔╝██╔═══██╗██║   ██║██╔════╝██║  ██║██║██║ ██╔╝\n █████╔╝ ██║   ██║██║   ██║╚█████╗ ███████║██║█████╔╝ \n ██╔═██╗ ██║   ██║██║   ██║ ╚═══██╗██╔══██║██║██╔═██╗ \n ██║  ██╗╚██████╔╝╚██████╔╝██████╔╝██║  ██║██║██║  ██╗\n ╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝",
+    "welcome_msg": "System Booted: Success. Type 'help' to see all commands.",
+    "id_badge_label": "ID: AZ-204-CERT"
+  },
+  "profile": {
+    "name": "Koushik Hiremath",
+    "role": "Azure Developer Associate",
+    "email": "koushikhiremath@gmail.com",
+    "phone": "+91 9739336649",
+    "location": "Bengaluru, Karnataka",
+    "socials": [
+      { "name": "GitHub", "icon": "fa-brands fa-github", "url": "https://github.com/your-username" },
+      { "name": "LinkedIn", "icon": "fa-brands fa-linkedin", "url": "https://linkedin.com/in/koushik-h-m" },
+      { "name": "X (Twitter)", "icon": "fa-brands fa-x-twitter", "url": "https://x.com/" },
+      { "name": "YouTube", "icon": "fa-brands fa-youtube", "url": "https://youtube.com/" },
+      { "name": "Instagram", "icon": "fa-brands fa-instagram", "url": "#" },
+      { "name": "Facebook", "icon": "fa-brands fa-facebook", "url": "#" }
+    ]
+  },
+  "commands": {
+    "help": "Available commands: <span class='text-[var(--primary)]'>about, experience, skills, contact, clear</span>",
+    "about": {
+      "header": "SUMMARY",
+      "text": "Dedicated and results-oriented full-stack developer with 4+ years of experience. Expert in transforming ideas into tangible solutions with strong DevOps and Azure capabilities."
+    },
+    "experience": [
+      {
+        "company": "RGBSI Pvt Ltd",
+        "role": "Senior Software Engineer",
+        "period": "02/2024 - Present",
+        "details": "Developing industry-standard CAD parts version control software using Blazor and .NET Core API."
+      },
+      {
+        "company": "Opteamix LLC",
+        "role": "Senior Software Engineer",
+        "period": "03/2023 - 02/2024",
+        "details": "Pioneered AI-driven coding tool utilizing OpenAI API. Managed AWS deployments via Jenkins."
+      }
+    ],
+    "skills": [
+      { "name": "C# / .NET Core / Blazor", "level": 95 },
+      { "name": "Python / Flask", "level": 85 },
+      { "name": "Azure DevOps / Jenkins", "level": 90 },
+      { "name": "React / Angular", "level": 95 },
+      { "name": "SQL / NoSQL Databases", "level": 90 },
+      { "name": "Docker / Kubernetes", "level": 80 },
+      { "name": "Git / Version Control", "level": 95 },
+      { "name": "CI/CD Pipelines", "level": 90 },
+      { "name": "Unit Testing / TDD", "level": 85 },
+      { "name": "Agile / Scrum Methodologies", "level": 90 },
+      { "name": "Cloud Platforms (Azure, AWS)", "level": 90 },
+      { "name": "Microservices Architecture", "level": 85 },
+      { "name": "API Design / RESTful Services", "level": 90 },
+      { "name": "Problem Solving / Debugging", "level": 95 },
+      { "name": "Communication / Team Collaboration", "level": 90 },
+      { "name": "Project Management / Leadership", "level": 85 }
+    ],
+    "contact": "Email: koushikhiremath@gmail.com<br>LinkedIn: linkedin.com/in/koushik-h-m<br>Loc: Bengaluru, Karnataka"
+  }
+}
